@@ -1,0 +1,17 @@
+html,body{
+    height: 100%;
+}
+.submit__btn{
+    border: none;
+    background-color: #fff;
+    padding: 4px;
+}
+.init__input{
+    width: 25vw;
+}
+form{
+    margin-left: 33%;
+}
+.datatable{
+    margin: 5vw;
+}
